@@ -1,6 +1,5 @@
 var http = require('http');
 var https = require('https');
-var fs = require ('fs');
 var querystring = require('querystring');
 var env = require('env2')('./config.env');
 var sessions = {};
