@@ -1,6 +1,6 @@
 # OAuth2 Tutorial
 
-The following is a walkthrough to set up a simple OAuth2 authenticated application.
+The following is a walkthrough to set up a simple OAuth2 authenticated application. We recommend you do this tutorial in a :pear:
 
 Come join our chat to discuss cookies and authentication!
 
