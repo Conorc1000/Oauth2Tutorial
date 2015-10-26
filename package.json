@@ -1,0 +1,22 @@
+{
+  "name": "oath2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conorc1000/Oauth2Tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conorc1000/Oauth2Tutorial/issues"
+  },
+  "homepage": "https://github.com/Conorc1000/Oauth2Tutorial#readme",
+  "dependencies": {
+    "env2": "^2.0.4"
+  }
+}
